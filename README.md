@@ -1,1 +1,0 @@
-# Building a Named Entity Recognition (NER) model with Hugging Face Transformers is a classic and powerful Natural Language Processing (NLP) project. Using DistilBERT for this task provides a balance of high performance and computational efficiency, making it ideal for real-world deployment.
